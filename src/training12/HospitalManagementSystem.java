@@ -6,6 +6,7 @@ package training12;
 	    // Private data members
 	    private int patientId;
 	    private String patientName;
+	    
 	    private int age;
 	    private String disease;
 

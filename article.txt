@@ -1,0 +1,4 @@
+Java is a programming language.
+Java supports object oriented programming.
+Python is also a programming language.
+I love Java.
